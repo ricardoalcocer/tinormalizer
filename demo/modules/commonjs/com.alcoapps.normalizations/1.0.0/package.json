@@ -1,0 +1,9 @@
+{
+    "description": "com.alcoapps.normalizations",
+    "directories": {
+        "lib": "."
+    },
+    "main": "com.alcoapps.normalizations",
+    "name": "com.alcoapps.normalizations",
+    "version": "1.0.0"
+}

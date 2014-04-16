@@ -1,0 +1,77 @@
+dependencies: \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiHTTPClient/TiNetworkHTTPClientProxy.m \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiHTTPClient/TiNetworkHTTPClientProxy.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiHTTPClient/TiHTTPClient.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiHTTPClient/TiHTTPRequest.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiHTTPClient/TiHTTPResponse.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiHTTPClient/TiHTTPPostForm.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiHTTPClient/TiHTTPOperation.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiHTTPClient/TiHTTPHelper.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiBase.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiThreading.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiPublicAPI.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiProxy.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiEvaluator.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/KrollContext.h \
+  /Users/ralcocer/Desktop/test/build/iphone/headers/TiCore/TiCore.h \
+  headers/TiCore/Ti.h headers/TiCore/TiBase.h \
+  headers/TiCore/TiContextRef.h headers/TiCore/TiObjectRef.h \
+  headers/TiCore/TiValueRef.h headers/TiCore/WebKitAvailability.h \
+  headers/TiCore/TiStringRef.h headers/TiCore/TiStringRefCF.h \
+  /Users/ralcocer/Desktop/test/build/iphone/headers/TiCore/TiContextRefPrivate.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/KrollCallback.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/KrollObject.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiBindingRunLoop.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiDOMDocumentProxy.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/GDataXMLNode.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/tree.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlversion.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlexports.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlstring.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlregexp.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/dict.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlmemory.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/threads.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/globals.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/parser.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/hash.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/valid.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlerror.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/list.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlautomata.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/entities.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/encoding.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xmlIO.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/SAX.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xlink.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/SAX2.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xpath.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/include/libxml2/libxml/xpathInternals.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiDOMNodeProxy.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiBlob.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/NetworkModule.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiModule.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiUtils.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiDimension.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiColor.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/WebFont.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiFile.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiBuffer.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiHTTPClient/Reachability.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiApp.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiHost.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/Bridge.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiStylesheet.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/KrollBridge.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/XHRBridge.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiRootViewController.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiControllerProtocols.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiViewProxy.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiUIView.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiAnimation.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiPoint.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/ListenerEntry.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/LayoutConstraint.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiGradient.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiRect.h \
+  /Users/ralcocer/Desktop/test/build/iphone/Classes/TiViewTemplate.h

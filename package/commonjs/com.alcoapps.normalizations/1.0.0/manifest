@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+description: Titanium iOS/Android API Normalizations
+author: Ricardo Alcocer
+license: MIT License
+copyright: Copyright (c) 2014 by Ricardo Alcocer.
+
+
+# these should not be edited
+name: com.alcoapps.normalizations
+moduleid: com.alcoapps.normalizations
+guid: 2a00ee79-58f8-4cab-ab8f-c520ab49c16a
+platform: commonjs
+minsdk: 3.2.0.GA

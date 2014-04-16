@@ -1,0 +1,1 @@
+module.exports={"dependencies":{},"songs":[{"name":"file1.mp3","description":"description goes here"},{"name":"file2.mp3","description":"description goes here"}]};
